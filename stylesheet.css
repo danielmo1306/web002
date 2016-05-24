@@ -5,9 +5,10 @@ background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_t
   -o-background-size: cover;
   background-size: cover;
 }
-div{
-  color: #ffffff;
-  margin-left: auto;
-  margin-right: auto;
-  width: 6em;
+*{
+  font-family: Tahoma;
+  color: black;
+}
+h1,p{
+  text-align: center;
 }
