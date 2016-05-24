@@ -5,6 +5,10 @@ background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_t
   -o-background-size: cover;
   background-size: cover;
 }
+html, body {
+  height: 100%;
+  min-height: 100%;
+}
 *{
   font-family: Tahoma;
   color: black;
@@ -14,12 +18,11 @@ background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_t
 	border-radius: 5px;
 	border: 2px solid #0B0A6E;
 	background-color: #0B0A6E;
-	height: 25px;
-	width: 120px;
+	height: 20px;
+	width: 100px;
 	margin: auto;
 }
 a{
 	color: #78A096;
 	text-decoration: none;
-	position: center;
 }
