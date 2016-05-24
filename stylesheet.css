@@ -41,5 +41,7 @@ a{
 }
 .principal div {
   padding: 40px;
-  border: 1px solid rgba(0, 0, 0, .3);
+  border: 1px solid #FFFFFF;
+  background-color: white;
 }
+
