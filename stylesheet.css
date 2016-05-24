@@ -25,6 +25,7 @@ html, body {
 a{
 	color: #78A096;
 	text-decoration: none;
+	font-size: 25px;
 }
 .principal {
   height: 100%;
