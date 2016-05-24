@@ -10,11 +10,6 @@ background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_t
   color: black;
   text-align: center;
 }
-#site{
-    width: 1000px;
-    margin: 0px auto;
-    background-color: white;
-}
 #botao{
 	border-radius: 5px;
 	border: 2px solid #1E90FF;
