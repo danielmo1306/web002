@@ -1,1 +1,7 @@
-oi
+body {
+background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_texture_50512_3840x2160.jpg) no-repeat center top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
