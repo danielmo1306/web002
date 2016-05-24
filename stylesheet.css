@@ -26,3 +26,20 @@ a{
 	color: #78A096;
 	text-decoration: none;
 }
+.principal {
+  height: 100%;
+  min-height: 100%;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  -ms-align-items: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.principal div {
+  padding: 40px;
+  border: 1px solid rgba(0, 0, 0, .3);
+}
