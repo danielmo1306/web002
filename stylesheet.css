@@ -5,3 +5,7 @@ background: url(https://wallpaperscraft.com/image/letters_surface_colored_line_t
   -o-background-size: cover;
   background-size: cover;
 }
+h1{
+  text-align: center;
+  color: #ffffff;
+}
